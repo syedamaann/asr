@@ -1,0 +1,5 @@
+transformers==4.11.3
+datasets==1.15.1
+soundfile
+librosa
+gradio==3.1
